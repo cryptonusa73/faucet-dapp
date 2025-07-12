@@ -47,16 +47,14 @@ A basic ERC-20 token faucet deployed on the Ethereum Sepolia testnet. Users can 
 ---
 
 ## 📁 Project Structure
+
+```
 faucet-dapp/
 ├── index.html
 ├── app.js
 ├── web3.min.js
 └── README.md
-
-yaml
-Copy code
-
----
+```
 
 ## 🧠 Future Plans
 
