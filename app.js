@@ -1,6 +1,6 @@
 // app.js
 
-let contractAddress = "0xA3C3ccCC568406BE5696fB9bfdc416586643eCb6";
+let contractAddress = "0x0224de966197c2e1b0B38538458eC707F0Baa5E5";
 let abi = [
 	{
 		"inputs": [
