@@ -1,6 +1,6 @@
 // app.js
 
-let contractAddress = "0xd9145CCE52D386f254917e481eB44e9943F39138";
+let contractAddress = "0xA3C3ccCC568406BE5696fB9bfdc416586643eCb6";
 let abi = [
 	{
 		"inputs": [
@@ -361,7 +361,7 @@ let abi = [
 		"stateMutability": "view",
 		"type": "function"
 	}
-]; // Replace with actual ABI
+]
 
 window.addEventListener('load', async () => {
   if (typeof window.ethereum !== 'undefined') {
