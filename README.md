@@ -47,4 +47,28 @@ A basic ERC-20 token faucet deployed on the Ethereum Sepolia testnet. Users can 
 ---
 
 ## 📁 Project Structure
+faucet-dapp/
+├── index.html
+├── app.js
+├── web3.min.js
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🧠 Future Plans
+
+- Limit faucet claims (cooldown per wallet)
+- Add token balance display
+- Deploy to mainnet
+- Turn into reusable faucet template
+
+---
+
+## 🙋‍♂️ Author
+
+- GitHub: [cryptonusa73](https://github.com/cryptonusa73)
+- Email: cryptonusa73@gmail.com
 
